@@ -1,0 +1,28 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "conformal-dispatch"
+version = "1.0.0"
+description = "Asset risk scoring with split conformal abstention for dispatch"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+authors = [{ name = "Casper Tavitian", email = "kaspar@venode.ai" }]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+conformal-dispatch = "conformal_dispatch.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/conformal_dispatch"]
+
+[tool.hatch.build.targets.wheel.sources]
+"src" = ""
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

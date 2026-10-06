@@ -3,3 +3,9 @@ dist/
 reports/
 *.log
 .DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+.ruff_cache/

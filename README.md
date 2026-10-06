@@ -12,12 +12,21 @@ A point estimate of risk is not enough for regulated dispatch. Conformal interva
 - Empirical coverage on a small holdout will wobble. Tests use a loose band, not a fake 98% claim.
 - Criticality-3 assets never auto-commit, even when the score looks calm.
 
-## Setup
+## TypeScript demo
 
 ```bash
 npm install
 npm test
 npm run score -- --fixtures fixtures/assets.json
+```
+
+## Python core
+
+```bash
+cd python
+uv sync --extra dev   # or: pip install -e ".[dev]"
+uv run pytest
+uv run conformal-dispatch score --fixtures ../fixtures/assets.json --alpha 0.1
 ```
 
 ## Decision rule (summary)
