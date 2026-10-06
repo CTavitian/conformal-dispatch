@@ -1,0 +1,21 @@
+{
+  "name": "conformal-dispatch",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Predictive risk scoring with conformal abstention for dispatch commit/escalate/hold",
+  "license": "MIT",
+  "type": "module",
+  "bin": { "conformal-dispatch": "./dist/cli.js" },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "score": "tsx src/cli.ts",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@types/node": "^22.18.6",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  },
+  "engines": { "node": ">=20" }
+}

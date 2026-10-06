@@ -1,0 +1,966 @@
+{
+  "calibration": [
+    {
+      "id": "cal-001",
+      "runtime_hours": 7853.4,
+      "alarm_rate_7d": 0.2,
+      "days_since_pm": 115.1,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-002",
+      "runtime_hours": 1678.7,
+      "alarm_rate_7d": 5.93,
+      "days_since_pm": 221.3,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "cal-003",
+      "runtime_hours": 842.7,
+      "alarm_rate_7d": 1.75,
+      "days_since_pm": 205.6,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "cal-004",
+      "runtime_hours": 8734.2,
+      "alarm_rate_7d": 5.61,
+      "days_since_pm": 171.9,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-005",
+      "runtime_hours": 9808.5,
+      "alarm_rate_7d": 0.05,
+      "days_since_pm": 323.7,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-006",
+      "runtime_hours": 2288.0,
+      "alarm_rate_7d": 7.66,
+      "days_since_pm": 139.3,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-007",
+      "runtime_hours": 4628.3,
+      "alarm_rate_7d": 2.75,
+      "days_since_pm": 111.0,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "cal-008",
+      "runtime_hours": 6666.6,
+      "alarm_rate_7d": 7.78,
+      "days_since_pm": 155.8,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "cal-009",
+      "runtime_hours": 7729.4,
+      "alarm_rate_7d": 7.08,
+      "days_since_pm": 149.1,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-010",
+      "runtime_hours": 1027.0,
+      "alarm_rate_7d": 1.82,
+      "days_since_pm": 120.7,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "cal-011",
+      "runtime_hours": 10464.6,
+      "alarm_rate_7d": 3.04,
+      "days_since_pm": 185.2,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-012",
+      "runtime_hours": 4585.6,
+      "alarm_rate_7d": 5.36,
+      "days_since_pm": 282.8,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-013",
+      "runtime_hours": 2468.1,
+      "alarm_rate_7d": 5.83,
+      "days_since_pm": 71.2,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-014",
+      "runtime_hours": 11142.0,
+      "alarm_rate_7d": 5.51,
+      "days_since_pm": 93.3,
+      "criticality": 2,
+      "failed": false
+    },
+    {
+      "id": "cal-015",
+      "runtime_hours": 9424.0,
+      "alarm_rate_7d": 1.83,
+      "days_since_pm": 19.6,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-016",
+      "runtime_hours": 1261.2,
+      "alarm_rate_7d": 7.31,
+      "days_since_pm": 229.9,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-017",
+      "runtime_hours": 6241.2,
+      "alarm_rate_7d": 7.08,
+      "days_since_pm": 259.6,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-018",
+      "runtime_hours": 3336.2,
+      "alarm_rate_7d": 4.49,
+      "days_since_pm": 110.3,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "cal-019",
+      "runtime_hours": 7210.6,
+      "alarm_rate_7d": 2.9,
+      "days_since_pm": 398.9,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-020",
+      "runtime_hours": 1545.5,
+      "alarm_rate_7d": 0.38,
+      "days_since_pm": 50.1,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "cal-021",
+      "runtime_hours": 5354.8,
+      "alarm_rate_7d": 0.51,
+      "days_since_pm": 157.0,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-022",
+      "runtime_hours": 11667.4,
+      "alarm_rate_7d": 6.89,
+      "days_since_pm": 11.5,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-023",
+      "runtime_hours": 6675.2,
+      "alarm_rate_7d": 2.13,
+      "days_since_pm": 258.9,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-024",
+      "runtime_hours": 2318.8,
+      "alarm_rate_7d": 0.03,
+      "days_since_pm": 290.8,
+      "criticality": 2,
+      "failed": false
+    },
+    {
+      "id": "cal-025",
+      "runtime_hours": 9262.6,
+      "alarm_rate_7d": 4.06,
+      "days_since_pm": 48.8,
+      "criticality": 2,
+      "failed": false
+    },
+    {
+      "id": "cal-026",
+      "runtime_hours": 6338.1,
+      "alarm_rate_7d": 1.59,
+      "days_since_pm": 153.9,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-027",
+      "runtime_hours": 9454.2,
+      "alarm_rate_7d": 4.24,
+      "days_since_pm": 7.2,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-028",
+      "runtime_hours": 1786.5,
+      "alarm_rate_7d": 2.9,
+      "days_since_pm": 394.2,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-029",
+      "runtime_hours": 3270.0,
+      "alarm_rate_7d": 4.54,
+      "days_since_pm": 38.0,
+      "criticality": 2,
+      "failed": false
+    },
+    {
+      "id": "cal-030",
+      "runtime_hours": 11746.8,
+      "alarm_rate_7d": 4.26,
+      "days_since_pm": 56.4,
+      "criticality": 2,
+      "failed": false
+    },
+    {
+      "id": "cal-031",
+      "runtime_hours": 2399.0,
+      "alarm_rate_7d": 4.22,
+      "days_since_pm": 245.4,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "cal-032",
+      "runtime_hours": 9185.5,
+      "alarm_rate_7d": 5.52,
+      "days_since_pm": 287.2,
+      "criticality": 2,
+      "failed": false
+    },
+    {
+      "id": "cal-033",
+      "runtime_hours": 7973.6,
+      "alarm_rate_7d": 3.5,
+      "days_since_pm": 210.4,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-034",
+      "runtime_hours": 1236.3,
+      "alarm_rate_7d": 0.17,
+      "days_since_pm": 224.7,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "cal-035",
+      "runtime_hours": 1316.4,
+      "alarm_rate_7d": 5.05,
+      "days_since_pm": 97.0,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "cal-036",
+      "runtime_hours": 1314.9,
+      "alarm_rate_7d": 1.9,
+      "days_since_pm": 269.9,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "cal-037",
+      "runtime_hours": 8818.6,
+      "alarm_rate_7d": 7.06,
+      "days_since_pm": 233.5,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-038",
+      "runtime_hours": 9786.2,
+      "alarm_rate_7d": 1.52,
+      "days_since_pm": 45.1,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-039",
+      "runtime_hours": 5227.7,
+      "alarm_rate_7d": 6.91,
+      "days_since_pm": 28.3,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-040",
+      "runtime_hours": 8874.5,
+      "alarm_rate_7d": 6.4,
+      "days_since_pm": 49.9,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-041",
+      "runtime_hours": 5659.1,
+      "alarm_rate_7d": 3.38,
+      "days_since_pm": 116.5,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "cal-042",
+      "runtime_hours": 1366.9,
+      "alarm_rate_7d": 6.46,
+      "days_since_pm": 343.4,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-043",
+      "runtime_hours": 11991.7,
+      "alarm_rate_7d": 6.69,
+      "days_since_pm": 387.8,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-044",
+      "runtime_hours": 6084.9,
+      "alarm_rate_7d": 1.71,
+      "days_since_pm": 164.6,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-045",
+      "runtime_hours": 524.8,
+      "alarm_rate_7d": 3.12,
+      "days_since_pm": 371.1,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-046",
+      "runtime_hours": 8510.8,
+      "alarm_rate_7d": 5.84,
+      "days_since_pm": 314.9,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-047",
+      "runtime_hours": 3912.1,
+      "alarm_rate_7d": 7.75,
+      "days_since_pm": 234.6,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "cal-048",
+      "runtime_hours": 4106.5,
+      "alarm_rate_7d": 0.4,
+      "days_since_pm": 194.4,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "cal-049",
+      "runtime_hours": 11549.0,
+      "alarm_rate_7d": 0.64,
+      "days_since_pm": 80.0,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "cal-050",
+      "runtime_hours": 10410.9,
+      "alarm_rate_7d": 3.23,
+      "days_since_pm": 377.0,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "cal-051",
+      "runtime_hours": 7337.0,
+      "alarm_rate_7d": 4.96,
+      "days_since_pm": 171.8,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "cal-052",
+      "runtime_hours": 4138.3,
+      "alarm_rate_7d": 2.09,
+      "days_since_pm": 270.2,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-053",
+      "runtime_hours": 5051.5,
+      "alarm_rate_7d": 5.37,
+      "days_since_pm": 124.9,
+      "criticality": 2,
+      "failed": false
+    },
+    {
+      "id": "cal-054",
+      "runtime_hours": 11260.9,
+      "alarm_rate_7d": 0.07,
+      "days_since_pm": 251.1,
+      "criticality": 3,
+      "failed": false
+    },
+    {
+      "id": "cal-055",
+      "runtime_hours": 1342.5,
+      "alarm_rate_7d": 1.71,
+      "days_since_pm": 111.2,
+      "criticality": 2,
+      "failed": false
+    },
+    {
+      "id": "cal-056",
+      "runtime_hours": 10611.6,
+      "alarm_rate_7d": 2.96,
+      "days_since_pm": 69.0,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "cal-057",
+      "runtime_hours": 7534.3,
+      "alarm_rate_7d": 7.9,
+      "days_since_pm": 264.0,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-058",
+      "runtime_hours": 6877.9,
+      "alarm_rate_7d": 7.45,
+      "days_since_pm": 47.7,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-059",
+      "runtime_hours": 10731.7,
+      "alarm_rate_7d": 5.94,
+      "days_since_pm": 68.1,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-060",
+      "runtime_hours": 8752.5,
+      "alarm_rate_7d": 1.63,
+      "days_since_pm": 256.3,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-061",
+      "runtime_hours": 3387.9,
+      "alarm_rate_7d": 7.27,
+      "days_since_pm": 27.0,
+      "criticality": 2,
+      "failed": false
+    },
+    {
+      "id": "cal-062",
+      "runtime_hours": 1007.0,
+      "alarm_rate_7d": 2.67,
+      "days_since_pm": 58.4,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-063",
+      "runtime_hours": 5581.1,
+      "alarm_rate_7d": 5.65,
+      "days_since_pm": 227.4,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-064",
+      "runtime_hours": 10655.7,
+      "alarm_rate_7d": 7.23,
+      "days_since_pm": 221.4,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-065",
+      "runtime_hours": 2203.1,
+      "alarm_rate_7d": 1.02,
+      "days_since_pm": 128.1,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "cal-066",
+      "runtime_hours": 2915.9,
+      "alarm_rate_7d": 2.0,
+      "days_since_pm": 47.4,
+      "criticality": 3,
+      "failed": false
+    },
+    {
+      "id": "cal-067",
+      "runtime_hours": 5173.3,
+      "alarm_rate_7d": 4.97,
+      "days_since_pm": 67.7,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "cal-068",
+      "runtime_hours": 11726.4,
+      "alarm_rate_7d": 6.49,
+      "days_since_pm": 353.4,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-069",
+      "runtime_hours": 11131.6,
+      "alarm_rate_7d": 6.26,
+      "days_since_pm": 168.8,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-070",
+      "runtime_hours": 9554.8,
+      "alarm_rate_7d": 0.86,
+      "days_since_pm": 349.8,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-071",
+      "runtime_hours": 9890.7,
+      "alarm_rate_7d": 3.68,
+      "days_since_pm": 126.9,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-072",
+      "runtime_hours": 8090.4,
+      "alarm_rate_7d": 3.19,
+      "days_since_pm": 116.5,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "cal-073",
+      "runtime_hours": 3709.9,
+      "alarm_rate_7d": 5.13,
+      "days_since_pm": 164.1,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "cal-074",
+      "runtime_hours": 817.4,
+      "alarm_rate_7d": 7.02,
+      "days_since_pm": 109.7,
+      "criticality": 3,
+      "failed": false
+    },
+    {
+      "id": "cal-075",
+      "runtime_hours": 3552.9,
+      "alarm_rate_7d": 0.87,
+      "days_since_pm": 177.8,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-076",
+      "runtime_hours": 11818.7,
+      "alarm_rate_7d": 0.93,
+      "days_since_pm": 360.5,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "cal-077",
+      "runtime_hours": 8651.0,
+      "alarm_rate_7d": 0.01,
+      "days_since_pm": 370.8,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "cal-078",
+      "runtime_hours": 11313.0,
+      "alarm_rate_7d": 5.9,
+      "days_since_pm": 84.4,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "cal-079",
+      "runtime_hours": 8138.7,
+      "alarm_rate_7d": 2.64,
+      "days_since_pm": 130.4,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "cal-080",
+      "runtime_hours": 3953.7,
+      "alarm_rate_7d": 2.47,
+      "days_since_pm": 167.5,
+      "criticality": 2,
+      "failed": false
+    }
+  ],
+  "holdout": [
+    {
+      "id": "hold-001",
+      "runtime_hours": 6875.7,
+      "alarm_rate_7d": 1.53,
+      "days_since_pm": 268.3,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "hold-002",
+      "runtime_hours": 10882.3,
+      "alarm_rate_7d": 4.92,
+      "days_since_pm": 125.3,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "hold-003",
+      "runtime_hours": 3994.6,
+      "alarm_rate_7d": 1.68,
+      "days_since_pm": 315.8,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "hold-004",
+      "runtime_hours": 5847.4,
+      "alarm_rate_7d": 3.54,
+      "days_since_pm": 91.0,
+      "criticality": 2,
+      "failed": false
+    },
+    {
+      "id": "hold-005",
+      "runtime_hours": 11538.1,
+      "alarm_rate_7d": 5.89,
+      "days_since_pm": 265.9,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "hold-006",
+      "runtime_hours": 7778.8,
+      "alarm_rate_7d": 2.68,
+      "days_since_pm": 328.6,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "hold-007",
+      "runtime_hours": 3083.4,
+      "alarm_rate_7d": 1.59,
+      "days_since_pm": 16.6,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "hold-008",
+      "runtime_hours": 7529.7,
+      "alarm_rate_7d": 6.15,
+      "days_since_pm": 186.0,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "hold-009",
+      "runtime_hours": 8508.1,
+      "alarm_rate_7d": 3.96,
+      "days_since_pm": 102.9,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "hold-010",
+      "runtime_hours": 10395.1,
+      "alarm_rate_7d": 7.08,
+      "days_since_pm": 312.9,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "hold-011",
+      "runtime_hours": 11516.6,
+      "alarm_rate_7d": 4.14,
+      "days_since_pm": 26.7,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "hold-012",
+      "runtime_hours": 1895.6,
+      "alarm_rate_7d": 1.07,
+      "days_since_pm": 189.6,
+      "criticality": 3,
+      "failed": false
+    },
+    {
+      "id": "hold-013",
+      "runtime_hours": 7347.7,
+      "alarm_rate_7d": 7.6,
+      "days_since_pm": 357.3,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "hold-014",
+      "runtime_hours": 10758.2,
+      "alarm_rate_7d": 3.41,
+      "days_since_pm": 363.4,
+      "criticality": 2,
+      "failed": false
+    },
+    {
+      "id": "hold-015",
+      "runtime_hours": 9052.0,
+      "alarm_rate_7d": 3.8,
+      "days_since_pm": 108.9,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "hold-016",
+      "runtime_hours": 3689.1,
+      "alarm_rate_7d": 6.22,
+      "days_since_pm": 197.4,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "hold-017",
+      "runtime_hours": 1391.1,
+      "alarm_rate_7d": 2.29,
+      "days_since_pm": 113.8,
+      "criticality": 2,
+      "failed": false
+    },
+    {
+      "id": "hold-018",
+      "runtime_hours": 1426.6,
+      "alarm_rate_7d": 1.21,
+      "days_since_pm": 157.5,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "hold-019",
+      "runtime_hours": 1238.6,
+      "alarm_rate_7d": 3.26,
+      "days_since_pm": 220.2,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "hold-020",
+      "runtime_hours": 10078.2,
+      "alarm_rate_7d": 3.12,
+      "days_since_pm": 309.5,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "hold-021",
+      "runtime_hours": 9304.3,
+      "alarm_rate_7d": 3.04,
+      "days_since_pm": 9.3,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "hold-022",
+      "runtime_hours": 4984.8,
+      "alarm_rate_7d": 7.13,
+      "days_since_pm": 335.4,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "hold-023",
+      "runtime_hours": 6780.5,
+      "alarm_rate_7d": 4.83,
+      "days_since_pm": 93.7,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "hold-024",
+      "runtime_hours": 6084.9,
+      "alarm_rate_7d": 3.11,
+      "days_since_pm": 269.9,
+      "criticality": 2,
+      "failed": false
+    },
+    {
+      "id": "hold-025",
+      "runtime_hours": 10165.8,
+      "alarm_rate_7d": 7.36,
+      "days_since_pm": 392.4,
+      "criticality": 3,
+      "failed": true
+    },
+    {
+      "id": "hold-026",
+      "runtime_hours": 5031.2,
+      "alarm_rate_7d": 4.52,
+      "days_since_pm": 17.7,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "hold-027",
+      "runtime_hours": 5809.5,
+      "alarm_rate_7d": 0.4,
+      "days_since_pm": 156.0,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "hold-028",
+      "runtime_hours": 4381.3,
+      "alarm_rate_7d": 7.04,
+      "days_since_pm": 116.4,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "hold-029",
+      "runtime_hours": 1441.9,
+      "alarm_rate_7d": 0.16,
+      "days_since_pm": 219.0,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "hold-030",
+      "runtime_hours": 1289.1,
+      "alarm_rate_7d": 7.66,
+      "days_since_pm": 22.8,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "hold-031",
+      "runtime_hours": 2792.6,
+      "alarm_rate_7d": 0.16,
+      "days_since_pm": 66.9,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "hold-032",
+      "runtime_hours": 1815.5,
+      "alarm_rate_7d": 7.58,
+      "days_since_pm": 189.8,
+      "criticality": 2,
+      "failed": false
+    },
+    {
+      "id": "hold-033",
+      "runtime_hours": 2429.6,
+      "alarm_rate_7d": 4.86,
+      "days_since_pm": 300.9,
+      "criticality": 1,
+      "failed": false
+    },
+    {
+      "id": "hold-034",
+      "runtime_hours": 2383.3,
+      "alarm_rate_7d": 2.49,
+      "days_since_pm": 234.4,
+      "criticality": 2,
+      "failed": false
+    },
+    {
+      "id": "hold-035",
+      "runtime_hours": 10942.3,
+      "alarm_rate_7d": 3.0,
+      "days_since_pm": 377.0,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "hold-036",
+      "runtime_hours": 8442.1,
+      "alarm_rate_7d": 5.02,
+      "days_since_pm": 47.0,
+      "criticality": 2,
+      "failed": false
+    },
+    {
+      "id": "hold-037",
+      "runtime_hours": 7404.7,
+      "alarm_rate_7d": 0.97,
+      "days_since_pm": 393.7,
+      "criticality": 1,
+      "failed": true
+    },
+    {
+      "id": "hold-038",
+      "runtime_hours": 5426.3,
+      "alarm_rate_7d": 2.96,
+      "days_since_pm": 205.8,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "hold-039",
+      "runtime_hours": 5330.7,
+      "alarm_rate_7d": 3.92,
+      "days_since_pm": 177.4,
+      "criticality": 2,
+      "failed": true
+    },
+    {
+      "id": "hold-040",
+      "runtime_hours": 10030.1,
+      "alarm_rate_7d": 5.66,
+      "days_since_pm": 178.1,
+      "criticality": 3,
+      "failed": false
+    }
+  ]
+}
