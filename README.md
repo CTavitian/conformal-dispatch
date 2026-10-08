@@ -37,6 +37,17 @@ uv run conformal-dispatch score --fixtures ../fixtures/assets.json --alpha 0.1
 | High risk lean | escalate |
 | Ambiguous set or wide interval | hold |
 
+## Current results
+
+On the 40 made-up assets in `fixtures/assets.json`, at alpha 0.1 (target coverage 0.9):
+
+```text
+coverage=0.775 target=0.9 n=40
+decisions: hold 40, commit 0, escalate 0
+```
+
+Every asset is held, and the intervals are close to the full 0 to 1 range, so the tool is cautious but not yet useful. The test only asks for coverage of at least 0.7, which is why it passes. My guess, not yet tested, is that the scoring model is too simple and 40 assets is too few to calibrate on. Next step: a larger sample and a better model, then check whether coverage moves toward the target.
+
 ## Non-goals
 
 - Not a full PdM platform or CMMS integration
